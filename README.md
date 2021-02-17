@@ -19,9 +19,13 @@
 6.	The codebook is generated from the input sequence.
 7.	 The elements in the codebook is concatenated as string and given as output.
 
+## Outputs
 
+### Encoding
+ ![](Encoding.png)
  
- 
+ ### Decoding
+ ![](Decoding.png)
   
   
   
